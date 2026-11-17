@@ -1,16 +1,15 @@
-## Hi there 👋
+Welcome to the Lab. 🧪
+Where good ideas go to become complicated.
 
-<!--
-**pstencil-arch/pstencil-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious builder who enjoys solving problems, challenging conventional thinking, and creating things that probably didn't need to exist.
 
-Here are some ideas to get you started:
+Current activities:
+- Teaching AI to do things I don't want to do.
+- Building apps because apparently buying software is too easy.
+- Starting new projects before finishing old ones.
+- Occasionally producing something that actually works.
+Development philosophy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Idea → Prototype → Chaos → Refactor → New Idea
+
+Disclaimer: No production systems were intentionally harmed in the making of these repositories.
